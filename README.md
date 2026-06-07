@@ -1,7 +1,6 @@
 # Networking_Task_02
 
-##Intern Information                                                                                                                                                  
-
+#Intern Information                                                                                                                                                  
 Name: Sayali Patil
 
 ## Objective
