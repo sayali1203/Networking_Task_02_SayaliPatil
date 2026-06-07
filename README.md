@@ -16,7 +16,9 @@ Understand network devices, IP addressing and network communication.
 ## Commands Used
 
 ipconfig /all
+
 nslookup google.com
+
 ping google.com
 
 ## Conclusion
